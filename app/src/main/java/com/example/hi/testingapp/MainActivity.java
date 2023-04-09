@@ -12,6 +12,6 @@ public class MainActivity extends Activity {
         /*vikas malviya*/
         /*adarsh*/
         /*adarsh*/
-
     }
+    // code added on it done should be here.
 }
