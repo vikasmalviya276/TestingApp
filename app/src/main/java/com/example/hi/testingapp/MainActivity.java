@@ -10,7 +10,4 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         /*vikas malviya*/
     }
-   
-    //first commit add
-    // second commit added 
 }
