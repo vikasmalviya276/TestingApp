@@ -17,5 +17,5 @@ public class MainActivity extends Activity {
     // code added on it done should be here.
     // second commit over there in file.
 }
-// fist commit
+// fist commit  added line  this is new feature change
 // added new line of code
