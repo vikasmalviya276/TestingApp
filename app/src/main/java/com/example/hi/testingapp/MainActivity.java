@@ -18,3 +18,4 @@ public class MainActivity extends Activity {
     // second commit over there in file.
 }
 // fist commit
+// added new line of code
