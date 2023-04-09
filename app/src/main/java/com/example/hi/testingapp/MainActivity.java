@@ -10,13 +10,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         /*vikas malviya*/
     }
-    // vikas malviya
-    // intial commit
-    // second commit
-    // third commit
-    // fourth file added 
-    // added fifith file
-    // six file added
-    // seven file
+   
     
 }
