@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends Activity {
     /*vikas*/
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected oid onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         /*vikas malviya*/
